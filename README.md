@@ -21,3 +21,19 @@
 
 
 ## JavaScript
+
+ Name/Link | Description | Tags 
+--- | --- | ---
+[CoffeeScript Cookbook](http://coffeescriptcookbook.com/) | CoffeeScript recipes for the community by the community. | `coffeescript`
+[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) | | `style`
+[Enquire](https://github.com/WickyNilliams/enquire.js/) | Awesome Media Queries in JavaScript | `library` `media queries`
+[Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript) | | `OO` `organization`
+[Leaflet](http://leafletjs.com/) | An Open-Source JavaScript Library for Mobile-Friendly Interactive Maps | `library` `maps` 
+[FlowType](http://simplefocus.com/flowtype/) | Web typography at its finest: font-size and line-height based on element width. | `library` `type`
+[One Page Scroll](http://www.thepetedesign.com/demos/onepage_scroll_demo.html) | Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin | `plugin` `scrolling`
+[FastDOM](http://wilsonpage.co.uk/preventing-layout-thrashing/) | Preventing 'layout thrashing' | `optimization`
+[DropZone](http://www.dropzonejs.com/) | DropzoneJS is an open source library that provides drag'n'drop file uploads with image previews. | `library` `uploads`
+[At](http://ichord.github.io/At.js/) | At.js, a github-like autocomplete library | `library` `autocomplete`
+[Glide](http://jedrzejchalubek.com/glide/) | It’s designed to slide. No less, no more. | `library` `slider`
+[Morris](http://www.oesmith.co.uk/morris.js/) | good-looking charts shouldn't be difficult | `library` `charts`
+[Snazzy Maps](http://snazzymaps.com/) | Snazzy Maps is a repository of different color schemes for Google Maps aimed towards web designers and developers. | `maps`
