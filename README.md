@@ -2,6 +2,11 @@
 
 ## HTML
 
+ Name/Link | Description | Tags 
+--- | --- | ---
+[5 HTML5 Features you need to know](http://daker.me/2013/05/5-html5-features-you-need-to-know.html) | | `html5`
+
+
 ## CSS
 
  Name/Link | Description | Tags 
