@@ -5,6 +5,7 @@
  Name/Link | Description | Tags 
 --- | --- | ---
 [5 HTML5 Features you need to know](http://daker.me/2013/05/5-html5-features-you-need-to-know.html) | | `html5`
+[Ink](http://designinstruct.com/tool/responsive-html-email-framework-zurb-ink/) | Quickly create responsive HTML emails that work on any device & client. Even Outlook. | `email`
 
 
 ## CSS
