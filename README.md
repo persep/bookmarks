@@ -43,3 +43,4 @@
 [Glide](http://jedrzejchalubek.com/glide/) | It’s designed to slide. No less, no more. | `library` `slider`
 [Morris](http://www.oesmith.co.uk/morris.js/) | good-looking charts shouldn't be difficult | `library` `charts`
 [Snazzy Maps](http://snazzymaps.com/) | Snazzy Maps is a repository of different color schemes for Google Maps aimed towards web designers and developers. | `maps`
+[Sir Trevor](http://madebymany.github.io/sir-trevor-js/) | rich content editing entirely re-imagined for the web | `wysiwyg`
