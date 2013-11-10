@@ -24,6 +24,7 @@
 [List of Pseudo-Elements to Style Form Controls](http://tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/) | | `forms`
 [CSSCSS](http://zmoazeni.github.io/csscss/) | csscss will parse any CSS files you give it and let you know which rulesets have duplicated declarations. | `organization`
 [Helium](https://github.com/geuis/helium-css) | javascript tool to scan your site and show unused CSS | `organization`
+[Bitters](http://bitters.bourbon.io/) | A dash of predefined style for your Bourbon stylesheets. | `sass`
 
 
 ## JavaScript
